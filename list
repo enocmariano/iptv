@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0 tvg-id="A&E" group-title="TV",A&E
+http://tv.factoryiptv.com:80/mxk2UMjt7V/factoryiptv/50628
+
+#EXTINF:0 tvg-id="AXN" group-title="TV",AXN
+http://tv.factoryiptv.com:80/mxk2UMjt7V/factoryiptv/50647
+
+#EXTINF:0 tvg-id="Comedy Central" group-title="TV",Comedy Central
+http://tv.factoryiptv.com:80/mxk2UMjt7V/factoryiptv/50675
+
+#EXTINF:0 tvg-id="Discovery Channel" group-title="TV",Discovery Channel
+http://tv.factoryiptv.com:80/mxk2UMjt7V/factoryiptv/50701
+
+#EXTINF:0 tvg-id="Discovery Channel HD" group-title="TV",Discovery Channel HD
+http://tv.factoryiptv.com:80/mxk2UMjt7V/factoryiptv/50691
