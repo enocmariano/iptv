@@ -1,161 +1,63 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_2
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
-#EXTINF:-1,iptvtools_3
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist_w153581978.m3u8
-#EXTINF:-1,iptvtools_5
-https://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1924782926.m3u8
-#EXTINF:-1,iptvtools_6
-https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
-#EXTINF:-1,iptvtools_9
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_11
-https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1964329509.m3u8
-#EXTINF:-1,iptvtools_12
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
-#EXTINF:-1,iptvtools_13
-http://v8.ciclano.io:1935/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:-1,iptvtools_15
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQNnDgATjYTqj8BU8LAnDdg5BvLYaIf9LhfAXbdShm1vh-29zO&usqp=CAU
-#EXTINF:-1,iptvtools_16
-https://livefocamundo.com:8081/8184/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_17
-http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/chunklist_w1104367548.m3u8
-#EXTINF:-1,iptvtools_18
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-#EXTINF:-1,iptvtools_19
-http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1649326357.m3u8
-#EXTINF:-1,iptvtools_20
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkSMiyCNZvFFO3DIEt7xWbhzOOdxCZKWGqtZ8kbiS2O90qmpfk&usqp=CAU
-#EXTINF:-1,iptvtools_21
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1,iptvtools_23
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1603063375.m3u8
-#EXTINF:-1,iptvtools_24
-https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8
-#EXTINF:-1,iptvtools_25
-https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chunklist_w1517544797.m3u8
-#EXTINF:-1,iptvtools_26
-https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w161665895.m3u8
-#EXTINF:-1,iptvtools_27
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1875968.m3u8
-#EXTINF:-1,iptvtools_29
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4BZRdUBWU4ybwKp6xe_zPC-vHLGYh6e6Bi4glCByduKrUtzkl&usqp=CAU
-#EXTINF:-1,iptvtools_30
-https://cdn.jmvstream.com/w/LVW-8562/LVW8562_4SUKN4FSQr/chunklist.m3u8
-#EXTINF:-1,iptvtools_31
-https://video01.kshost.com.br/bccinternational523/bccinternational523/chunklist_w1289965884.m3u8
-#EXTINF:-1,iptvtools_33
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8
-#EXTINF:-1,iptvtools_34
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRAdpgJGX85DmiS8Tyaqrh2yBqanTzw5AB9aFGnJGBXeXnrUSY3SlEEyh&s=10
-#EXTINF:-1,iptvtools_35
-https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w2087084083.m3u8
-#EXTINF:-1,iptvtools_37
-http://18.228.14.226/hls/primertv360/index.m3u8
-#EXTINF:-1,iptvtools_38
-http://582b8d3a8267b.streamlock.net/ponto2/transamerica2/chunklist_w869387340.m3u8
-#EXTINF:-1,iptvtools_39
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgVLbRYtUm__RHFOJuAuTD784F3Jm3WCSiTBIIJ-ETNoSHh-bkgrLuTNwgbg&s=10
-#EXTINF:-1,iptvtools_40
-https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w184359314.m3u8
-#EXTINF:-1,iptvtools_41
-http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
-#EXTINF:-1,iptvtools_42
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcfyQzdRSrMWPVm40J3KZhuURAbnJfuT1xMUEjwO2PIir2fesj6hV7u3-bw&s=10
-#EXTINF:-1,iptvtools_43
-https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w475466783.m3u8
-#EXTINF:-1,iptvtools_44
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDZTrDGnPKPbmDvY29O4LHQ-HtnXfZFKWttoMqm0NegHczmhvI&usqp=CAU
-#EXTINF:-1,iptvtools_45
-https://stmv6.srvstm.com/gospelf/gospelf/chunklist.m3u8
-#EXTINF:-1,iptvtools_46
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDZTrDGnPKPbmDvY29O4LHQ-HtnXfZFKWttoMqm0NegHczmhvI&usqp=CAU
-#EXTINF:-1,iptvtools_47
-https://stmv4.srvstm.com/gospelf2/gospelf2/chunklist.m3u8
-#EXTINF:-1,iptvtools_48
-https://59f2354c05961.streamlock.net:1443/livretv/_definst_/livretv/chunklist_w304566822.m3u8
-#EXTINF:-1,iptvtools_49
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmd49Azz3OIdIL7AUQdP65wZLz4ZhuDL_SFEGBWbsQrbDOJoS9QXnue1Cq&s=10
-#EXTINF:-1,iptvtools_50
-https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/chunklist_b1628000.m3u8
-#EXTINF:-1,iptvtools_52
-https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist.m3u8
-#EXTINF:-1,iptvtools_53
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgsouqwRuWdG3d3Bz0m4_OzScUn_CvD4YNMs1W0qZ_HvBedh65sX1A4pFLNg&s=10
-#EXTINF:-1,iptvtools_54
-https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
-#EXTINF:-1,iptvtools_55
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7oJ4Wqdp1Ymo4KFaqsRhyVdG7xltN4DtzwBY4tDrBg8qGqt5JJWm0vg1Fw&s=10
-#EXTINF:-1,iptvtools_57
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuJrrgnoBG2LBu43byHcNFDAUtW3sPR5zk1jVEx6Jbm_ZHOGFJ_D5IR-RJ&s=10
-#EXTINF:-1,iptvtools_58
-https://5d2c98775bafe.streamlock.net/8180/8180/chunklist.m3u8
-#EXTINF:-1,iptvtools_59
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa-IYvRfithkCCzMZ1qvfFTlWzGWyqlOrughlGV7RslWDOnFXotQ&s
-#EXTINF:-1,iptvtools_60
-https://5d2c98775bafe.streamlock.net/8220/8220/chunklist.m3u8
-#EXTINF:-1,iptvtools_61
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduyAzUcLAB142P3Sean_6YywAaPB2dIHlrO1SKVHtGM4gz6drqLXDcQkDog&s=10
-#EXTINF:-1,iptvtools_62
-https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
-#EXTINF:-1,iptvtools_63
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSG-mf_orKhn0WXV4A1jAxfCXTMHMFnpVLp3SYXKaVuCu4kAQn&usqp=CAU
-#EXTINF:-1,iptvtools_64
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
-#EXTINF:-1,iptvtools_66
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1,iptvtools_67
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQUu2J_z4WPL-2poCVrkubJkOskSefZ8eKiLyLlp4MFrD6YC-G&usqp=CAU
-#EXTINF:-1,iptvtools_68
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist.m3u8
-#EXTINF:-1,iptvtools_69
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjACOnK3mCSdxUDVDUub9vLnh9xr2s68NFGMeNrJ26fP3fVN0U&usqp=CAU
-#EXTINF:-1,iptvtools_70
-https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist.m3u8
-#EXTINF:-1,iptvtools_71
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuCi_uA820_2T4HD2X5SuYqdiOIaPGEfp8r0A8glrA9cpnT-I3Rw_aF8E_7A&s=10
-#EXTINF:-1,iptvtools_72
-https://stream1.asaweb.com.br:444/tvpantanalms/tvpantanalms/chunks.m3u8
-#EXTINF:-1,iptvtools_73
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwouW5td8YOMcwARHxajLnLsJDivAq3WaezKpFUkS_pkvdOSEh9jBELuHJ&s=10
-#EXTINF:-1,iptvtools_74
-https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-480p.m3u8
-#EXTINF:-1,iptvtools_75
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTojRmddjJRSWGV5dKMwqmdbZfOhCCTicaRdQ-1xm8GkUI52t5YqRR3tkK7&s=10
-#EXTINF:-1,iptvtools_76
-https://stmv6.srvstm.com/classique/classique/chunklist.m3u8
-#EXTINF:-1,iptvtools_77
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNRUtEd5QEOY42P9Di8fomRPwhTyAkEDZZesDEjVaN8bYEoD06aCM6KCB&s=10
-#EXTINF:-1,iptvtools_78
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1,iptvtools_79
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7Q8KYzGo-vmb4ZSBcXX-flEQaLRR2Uh5jtE5oJt9vE5ZxxIzj&usqp=CAU
-#EXTINF:-1,iptvtools_80
-https://stmv1.mycast.com.br/tvriolargo/tvriolargo/chunklist.m3u8
-#EXTINF:-1,iptvtools_81
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGxtpzd0k-8x26EcVv_Ws1eqIMvTB7WHFalvemJmdLwUzqDTuMemRrzOW&s=10
-#EXTINF:-1,iptvtools_82
-https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/chunklist_w1345830842.m3u8
-#EXTINF:-1,iptvtools_83
-https://stmv1.uauhost.com.br/uauatv/uauatv/playlist.m3u8
-#EXTINF:-1,iptvtools_84
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1,iptvtools_85
-http://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8
-#EXTINF:-1,iptvtools_86
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWgxZjWA_IuM0GaVAPIgueExb01Q26xOHg9l_iN5Otb3BCY1kTm_lyjYj3gQ&s=10
-#EXTINF:-1,iptvtools_87
-https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w2046716339.m3u8
-#EXTINF:-1,iptvtools_88
-http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
-#EXTINF:-1,iptvtools_89
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1,iptvtools_90
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerRVbPNZJ9RmM2F3x1bB6GVEZgb_Irin2jGiruecwm16eC_J0MskyUfDr2Q&s=10
-#EXTINF:-1,iptvtools_91
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1,iptvtools_92
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7_YQwBCYbGRS-Z6Jgbna1hFwMIBi62VWN_3KDDZVAYqbArd7R&usqp=CAU
-#EXTINF:-1,iptvtools_93
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+  #EXTINF:-1,iptvtools_24
+  https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8
+  #EXTINF:-1,iptvtools_26
+  https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w161665895.m3u8
+  #EXTINF:-1,iptvtools_27
+  https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1875968.m3u8
+  #EXTINF:-1,iptvtools_29
+  https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4BZRdUBWU4ybwKp6xe_zPC-vHLGYh6e6Bi4glCByduKrUtzkl&usqp=CAU
+  #EXTINF:-1,iptvtools_31
+  https://video01.kshost.com.br/bccinternational523/bccinternational523/chunklist_w1289965884.m3u8
+  #EXTINF:-1,iptvtools_33
+  https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8
+  #EXTINF:-1,iptvtools_34
+  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuRAdpgJGX85DmiS8Tyaqrh2yBqanTzw5AB9aFGnJGBXeXnrUSY3SlEEyh&s=10
+  #EXTINF:-1,iptvtools_38
+  http://582b8d3a8267b.streamlock.net/ponto2/transamerica2/chunklist_w869387340.m3u8
+  #EXTINF:-1,iptvtools_39
+  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgVLbRYtUm__RHFOJuAuTD784F3Jm3WCSiTBIIJ-ETNoSHh-bkgrLuTNwgbg&s=10
+  #EXTINF:-1,iptvtools_40
+  https://5abdf4edae5bf.streamlock.net/tvbanquetatvstation/tvbanquetatvstation/chunklist_w184359314.m3u8
+  #EXTINF:-1,iptvtools_43
+  https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w475466783.m3u8
+  #EXTINF:-1,iptvtools_45
+  https://stmv6.srvstm.com/gospelf/gospelf/chunklist.m3u8
+  #EXTINF:-1,iptvtools_47
+  https://stmv4.srvstm.com/gospelf2/gospelf2/chunklist.m3u8
+  #EXTINF:-1,iptvtools_49
+  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmd49Azz3OIdIL7AUQdP65wZLz4ZhuDL_SFEGBWbsQrbDOJoS9QXnue1Cq&s=10
+  #EXTINF:-1,iptvtools_50
+  https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/chunklist_b1628000.m3u8
+  #EXTINF:-1,iptvtools_55
+  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe7oJ4Wqdp1Ymo4KFaqsRhyVdG7xltN4DtzwBY4tDrBg8qGqt5JJWm0vg1Fw&s=10
+  #EXTINF:-1,iptvtools_57
+  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuJrrgnoBG2LBu43byHcNFDAUtW3sPR5zk1jVEx6Jbm_ZHOGFJ_D5IR-RJ&s=10
+  #EXTINF:-1,iptvtools_58
+  https://5d2c98775bafe.streamlock.net/8180/8180/chunklist.m3u8
+  #EXTINF:-1,iptvtools_60
+  https://5d2c98775bafe.streamlock.net/8220/8220/chunklist.m3u8
+  #EXTINF:-1,iptvtools_61
+  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduyAzUcLAB142P3Sean_6YywAaPB2dIHlrO1SKVHtGM4gz6drqLXDcQkDog&s=10
+  #EXTINF:-1,iptvtools_62
+  https://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
+  #EXTINF:-1,iptvtools_64
+  http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+  #EXTINF:-1,iptvtools_66
+  https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+  #EXTINF:-1,iptvtools_70
+  https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist.m3u8
+  #EXTINF:-1,iptvtools_74
+  https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-480p.m3u8
+  #EXTINF:-1,iptvtools_76
+  https://stmv6.srvstm.com/classique/classique/chunklist.m3u8
+  #EXTINF:-1,iptvtools_78
+  https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+  #EXTINF:-1,iptvtools_80
+  https://stmv1.mycast.com.br/tvriolargo/tvriolargo/chunklist.m3u8
+  #EXTINF:-1,iptvtools_83
+  https://stmv1.uauhost.com.br/uauatv/uauatv/playlist.m3u8
+  #EXTINF:-1,iptvtools_84
+  http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+  #EXTINF:-1,iptvtools_85
+  http://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8
